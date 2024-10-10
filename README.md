@@ -1,7 +1,7 @@
 # django-todo
 A simple todo app built with django
 
-!
+!Hosting Django app on ec2-instance!
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
